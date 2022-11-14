@@ -1,0 +1,14 @@
+* {
+  margin: center;
+  padding: 0;
+  box-sizing: border-box;
+  background: linear-gradient(
+  0.5deg,
+  #000 0%, 
+  #4F0C75 100%
+  ); 
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+}
